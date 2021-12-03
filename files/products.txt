@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Escuadra",
+    "precio": "50",
+    "thumbnail": "http://localhost:8080/images/1638511937744escuadra.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Regla",
+    "precio": "250",
+    "thumbnail": "http://localhost:8080/images/1638511970194regla.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Globo terraqueo",
+    "precio": "800",
+    "thumbnail": "http://localhost:8080/images/1638511990386globo.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Calculadora",
+    "precio": "400",
+    "thumbnail": "http://localhost:8080/images/1638512009169calculadora.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cinta metrica",
+    "precio": "50",
+    "thumbnail": "http://localhost:8080/images/1638513513515cintametrica.jpg"
+  }
+]
